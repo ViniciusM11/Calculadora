@@ -5,8 +5,9 @@ html, body {
 
 .fundo{
     display: flex;
-    height: 100%;
-    background: linear-gradient(to bottom right, #FF4500, #4B0082	) no-repeat;
+    height: auto;
+    padding: 2em;
+    background: linear-gradient(to bottom right, #FF4500, #4B0082	) repeat-x;
     align-items: center;
     justify-content: center;
 }
